@@ -1,0 +1,9 @@
+streamlit
+pydantic>=2
+yfinance
+pandas
+numpy
+langchain
+langchain-openai
+langfuse    # observability
+guardrails-ai  # if you want advanced declarative guardrails

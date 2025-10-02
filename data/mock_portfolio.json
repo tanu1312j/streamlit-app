@@ -1,0 +1,9 @@
+{
+  "cash": 150000,
+  "holdings": [
+    {"symbol": "INFY.NS", "qty": 40, "price": 1645.0},
+    {"symbol": "TCS.NS", "qty": 10, "price": 3950.0}
+  ],
+  "targets": {"INFY.NS": 40.0, "TCS.NS": 30.0, "CASH": 30.0},
+  "drift_threshold_pct": 5.0
+}
