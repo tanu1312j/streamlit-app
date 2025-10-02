@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.venv/
+venv/
+*.log
+.DS_Store
+
+# Streamlit state (if any)
+.streamlit/
